@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "@solana/spl-token": "^0.1.8",
+    "@solana/wallet-adapter-base": "^0.9.2",
+    "@solana/wallet-adapter-wallets": "^0.14.2",
     "@solana/web3.js": "^1.31.0"
   }
 }
